@@ -55,7 +55,7 @@ const MultiDropDown = ({ options }) => {
   
 
   return (
-    <div className="container" style={{backgroundColor:"red"}}>
+    <div className="container" >
       <h2 className="title">Multi Select Dropdown</h2>
 
       <div className="wrapper" ref={dropDownref}>
